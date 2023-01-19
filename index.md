@@ -15,11 +15,15 @@ Syntax highlighted code block
 
 # Header 1 
 ## Header 2
-### Header 3
 
+
+### The favorite thing about CS19300
+- TA
+- classroom
+
+## My favorite thing 
 - China
-- Guangzhou
-- Yuji Itadori
+- anime such as One Piece, Chainsman and Attach on Titan
 
 1. Numbered
 2. List
